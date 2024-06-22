@@ -1,0 +1,8 @@
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.AssemblyInfoInputs.cache
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.AssemblyInfo.cs
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.csproj.CoreCompileInputs.cache
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.RazorAssemblyInfo.cache
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.RazorAssemblyInfo.cs
+C:\Users\conta\work\sbdemo\sbdemo0604\obj\Release\net8.0\sbdemo0604.sourcelink.json
